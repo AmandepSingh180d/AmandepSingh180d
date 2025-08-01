@@ -8,10 +8,11 @@ I'm looking for opportunities in **Embedded Systems**, **Controls Engineering**,
 
 ## 🛠️ Technical Skills
 
-- **Languages:** C, C++, Python (Proficient) | Verilog, HTML, JS, SQL, MATLAB, CUDA (Familiar)  
-- **Microcontrollers & Platforms:** ESP32, Jetson Nano, Raspberry Pi, K64F, ATmega328P  
-- **Tools/Frameworks:** PyCUDA, Docker, Flask, Git, Linux, YOLOv5/v8, Make, PSpice, Multimeter, Soldering, Signal Generators, Spectrum Analyzers, Logic Analyzers
-- **Protocols/Interfaces:** UART, SPI, I²C, GPIO, ADC, PWM, MQTT  
+- **Languages:** C, C++, Python (Proficient) | Verilog, SQL, HTML/CSS, JavaScript, MATLAB, CUDA (Familiar)  
+- **Microcontrollers & Platforms:** ESP32, Jetson Nano, Raspberry Pi, NXP K64F, ATmega328P  
+- **Tools & Frameworks:** Git, Linux, Docker, PyCUDA, Flask, YOLOv5/v8, Make, LabVIEW, PSpice, Cadence OrCAD, Fusion 360, GTKWave
+- **Instrumentation:** Digital Multimeter, Soldering, Signal Generators, Spectrum Analyzers, Logic Analyzers  
+- **Interfaces & Protocols:** UART, SPI, I²C, GPIO, ADC, PWM, MQTT
 
 ---
 
@@ -30,16 +31,20 @@ A rugged, remote-controlled, and semi-autonomous vehicle designed for use in dis
 - Engineered wireless control via NRF24L modules, enabling bidirectional communication between handheld controller and vehicle subsystems.
 - Performed extensive subsystem and integration testing on motor drivers, wireless links, autonomous driving algorithms, and sensor calibration.
 - Delivered: a functional prototype supporting manual and autonomous modes with modular architecture for future upgrades.
+- Completed all deliverables under tight academic deadlines, demonstrating strong project planning, engineering documentation, and technical execution
+- Authored professional engineering documentation, including:
+  - **Project Briefing**, **Requirements Specification**, and **Testing Strategy**
+  - A complete engineering **Report** with **system architecture**, **constraints**, **definitions**, and **future development plans**
 
 ---
 
-### 🐾 Automatic Pet Feeder [LINK]
+### 🐾 Automatic Pet Feeder [https://github.com/AmandepSingh180d/Automatic-Pet-Feeder.git]
 **Technologies:** C, GPIO, ADC, Stepper Motors, Register-level Programming
 
 An embedded pet feeder with configurable modes and portion control via analog inputs using a Bare-metal K64F
 
 - Designed and built an automatic pet feeder on the NXP K64F microcontroller using low-level register programming for GPIO, ADC, and timer modules.
-- Collaborated in a 2-person team to build, debug, and validate system behavior through iterative testing and circuit refinement.
+- Collaborated in a 2-member team to build, debug, and validate system behavior through iterative testing and circuit refinement.
 - Implemented mode selection via potentiometers, photoresistor-based food level sensing, and stepper motor control for dispensing.
 - Programmed multiple operating modes—manual, timed, and portion-controlled—using a modular architecture in embedded C.
 - Engineered a physical prototype with LEDs and sensors for user feedback, optimizing ADC input allocation under hardware constraints.
@@ -76,7 +81,7 @@ A real-time object detection pipeline optimized for the Jetson Nano using custom
 
 ---
 
-### 🎮 RPG Game (CS100) [LINK]
+### 🎮 RPG Game (CS100) [https://github.com/AmandepSingh180d/FinalProjectCS100UCR.git]
 **Technologies**: Linux, C++
 
 A turn-based, multiplayer fantasy RPG game featuring class-based characters, strategic combat, alliances, and inventory systems — all running in a C++ console environment.
@@ -91,7 +96,7 @@ A turn-based, multiplayer fantasy RPG game featuring class-based characters, str
 
 ---
 
-### 🎶 MP3 Player [LINK]
+### 🎶 MP3 Player [https://github.com/AmandepSingh180d/MP3-Player-Project.git]
 **Technologies**: C/C++, Arduino Uno, Tone library, Joystick, LCD
 
 An embedded MP3 player simulator that plays preset melodies using buzzer output and a joystick-driven menu interface.
@@ -105,9 +110,25 @@ An embedded MP3 player simulator that plays preset melodies using buzzer output 
 
 ---
 
+### ⚙️ Additional Technical Projects  
+_Reach out if you'd like more details on any of these topics!_
+
+- 🗃️ **Relational Database Design**  
+  Wrote and optimized SQL queries for a Pizza Store management system, including order processing and customer/driver/store relations.
+
+- ⚡ **Analog Circuit Design**  
+  - Designed and simulated **Common-Emitter Amplifiers** with mid-band gain targeting  
+  - Built and analyzed **Current Mirrors** and **Cascode structures** for improved output resistance and stability  
+  - Implemented **Differential Amplifiers** with **Active Loads** for precise differential-to-single-ended signal conversion  
+  - Applied **Negative Feedback** in **Op-Amp configurations** for gain control and bandwidth shaping  
+  - Developed and tested **Feedback-Based Voltage Regulators** for supply stabilization
+
+
+---
+
 ## 📫 Let’s Connect!
 
-- [LinkedIn](www.linkedin.com/in/amandeep-singh-428061230)  
+- [LinkedIn](https://www.linkedin.com/in/amandeep-singh-428061230)  
 - 📧 amandeepsingh180d@gmail.com
 
 ---
