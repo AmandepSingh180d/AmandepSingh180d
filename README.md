@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Amandeep Singh
+# Hi, I’m Amandeep Singh
 
 I'm a recent graduate from **UC Riverside** with a B.S. in **Computer Engineering**, passionate about embedded systems, control systems, and real-time hardware/software integration.
 
@@ -6,7 +6,7 @@ I'm looking for opportunities in **Embedded Systems**, **Controls Engineering**,
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 - **Languages:** C, C++, Python (Proficient) | Verilog, SQL, HTML/CSS, JavaScript, MATLAB, CUDA (Familiar)  
 - **Microcontrollers & Platforms:** ESP32, Jetson Nano, Raspberry Pi, NXP K64F, ATmega328P  
@@ -16,9 +16,9 @@ I'm looking for opportunities in **Embedded Systems**, **Controls Engineering**,
 
 ---
 
-## 🚀 Projects
+## Projects
 
-### 🔍 Autonomous Reconnaissance Vehicle [https://github.com/k-main/RC-Car]
+### Autonomous Reconnaissance Vehicle [https://github.com/k-main/RC-Car]
 Senior Design Capstone @ UCR  
 **Technologies:** ESP32, NRF24L01, LiDAR, GPS, Servo Control, Custom Chassis
 
@@ -38,7 +38,7 @@ A rugged, remote-controlled, and semi-autonomous vehicle designed for use in dis
 
 ---
 
-### 🐾 Automatic Pet Feeder [https://github.com/AmandepSingh180d/Automatic-Pet-Feeder.git]
+### Automatic Pet Feeder [https://github.com/AmandepSingh180d/Automatic-Pet-Feeder.git]
 **Technologies:** C, GPIO, ADC, Stepper Motors, Register-level Programming
 
 An embedded pet feeder with configurable modes and portion control via analog inputs using a Bare-metal K64F
@@ -51,7 +51,7 @@ An embedded pet feeder with configurable modes and portion control via analog in
 
 ---
 
-### 🛡️ Smart Security System [PRIVATE REPO]
+### Smart Security System [PRIVATE REPO]
 **Technologies:** Jetson Nano, YOLOv8, MQTT, Flask, Docker, Raspberry Pi
 
 An AI-powered security system with motion-based detection, live notifications, and private VPN-secured dashboard access.
@@ -65,7 +65,7 @@ An AI-powered security system with motion-based detection, live notifications, a
 
 ---
 
-### ⚡ Jetson Nano YOLOv5 GPU Optimization [PRIVATE REPO]
+### Jetson Nano YOLOv5 GPU Optimization [PRIVATE REPO]
 **Technologies**: CUDA, C++, Cython, Python, Jetson Nano, YOLOv5
 
 A real-time object detection pipeline optimized for the Jetson Nano using custom CUDA kernels and performance profiling.
@@ -81,7 +81,7 @@ A real-time object detection pipeline optimized for the Jetson Nano using custom
 
 ---
 
-### 🎮 RPG Game (CS100) [https://github.com/AmandepSingh180d/FinalProjectCS100UCR.git]
+### RPG Game (CS100) [https://github.com/AmandepSingh180d/FinalProjectCS100UCR.git]
 **Technologies**: Linux, C++
 
 A turn-based, multiplayer fantasy RPG game featuring class-based characters, strategic combat, alliances, and inventory systems — all running in a C++ console environment.
@@ -96,7 +96,7 @@ A turn-based, multiplayer fantasy RPG game featuring class-based characters, str
 
 ---
 
-### 🎶 MP3 Player [https://github.com/AmandepSingh180d/MP3-Player-Project.git]
+### MP3 Player [https://github.com/AmandepSingh180d/MP3-Player-Project.git]
 **Technologies**: C/C++, Arduino Uno, Tone library, Joystick, LCD
 
 An embedded MP3 player simulator that plays preset melodies using buzzer output and a joystick-driven menu interface.
@@ -110,13 +110,13 @@ An embedded MP3 player simulator that plays preset melodies using buzzer output 
 
 ---
 
-### ⚙️ Additional Technical Projects  
+### Additional Technical Projects  
 _Reach out if you'd like more details on any of these topics!_
 
-- 🗃️ **Relational Database Design**  
+- **Relational Database Design**  
   Wrote and optimized SQL queries for a Pizza Store management system, including order processing and customer/driver/store relations.
 
-- ⚡ **Analog Circuit Design**  
+- **Analog Circuit Design**  
   - Designed and simulated **Common-Emitter Amplifiers** with mid-band gain targeting  
   - Built and analyzed **Current Mirrors** and **Cascode structures** for improved output resistance and stability  
   - Implemented **Differential Amplifiers** with **Active Loads** for precise differential-to-single-ended signal conversion  
@@ -126,9 +126,9 @@ _Reach out if you'd like more details on any of these topics!_
 
 ---
 
-## 📫 Let’s Connect!
+## Let’s Connect!
 
 - [LinkedIn](https://www.linkedin.com/in/amandeep-singh-428061230)  
-- 📧 amandeepsingh180d@gmail.com
+- amandeepsingh180d@gmail.com
 
 ---
