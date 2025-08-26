@@ -66,14 +66,14 @@ An AI-powered security system with motion-based detection, live notifications, a
 ---
 
 ### Jetson Nano YOLOv8 GPU Optimization [PRIVATE REPO]
-**Technologies**: CUDA, C++, Cython, Python, Jetson Nano, YOLOv5
+**Technologies**: CUDA, C++, Cython, Python, Jetson Nano, YOLOv8
 
 A real-time object detection pipeline optimized for the Jetson Nano using custom CUDA kernels and performance profiling.
 
-- Achieved up to 18% improvement over baseline YOLOv5 by rewriting Non-Maximum Suppression (NMS) and Bounding Box Decoding directly in CUDA
+- Achieved up to 18% improvement over baseline YOLOv8 by rewriting Non-Maximum Suppression (NMS) and Bounding Box Decoding directly in CUDA
 - Collaborated in a 2-member team using incremental programming
 - Replaced Python-bound inference steps with low-level memory-optimized GPU kernels
-- Used Cython and PyCUDA to integrate CUDA kernels into the Python YOLOv5 inference pipeline
+- Used Cython and PyCUDA to integrate CUDA kernels into the Python YOLOv8 inference pipeline
 - Implemented detailed timing benchmarks to validate per-frame performance improvements
 - Compared custom pipeline to TorchScript baseline to verify gains under real-world inference scenarios
 
@@ -81,7 +81,7 @@ A real-time object detection pipeline optimized for the Jetson Nano using custom
 
 ---
 
-### RPG Game (CS100) [https://github.com/AmandepSingh180d/FinalProjectCS100UCR.git]
+### Text Based Linux Role Playing Game (CS100) [https://github.com/AmandepSingh180d/FinalProjectCS100UCR.git]
 **Technologies**: Linux, C++
 
 A turn-based, multiplayer fantasy RPG game featuring class-based characters, strategic combat, alliances, and inventory systems — all running in a C++ console environment.
