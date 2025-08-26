@@ -18,7 +18,7 @@ I'm looking for opportunities in **Embedded Systems**, **Controls Engineering**,
 
 ## Projects
 
-### Autonomous Reconnaissance Vehicle [https://github.com/k-main/RC-Car]
+### Embedded Autonomous Robotics Platform [https://github.com/k-main/RC-Car]
 Senior Design Capstone @ UCR  
 **Technologies:** ESP32, NRF24L01, LiDAR, GPS, Servo Control, Custom Chassis
 
@@ -38,7 +38,7 @@ A rugged, remote-controlled, and semi-autonomous vehicle designed for use in dis
 
 ---
 
-### Automatic Pet Feeder [https://github.com/AmandepSingh180d/Automatic-Pet-Feeder.git]
+### Precision Embedded Pet Feeder System [https://github.com/AmandepSingh180d/Automatic-Pet-Feeder.git]
 **Technologies:** C, GPIO, ADC, Stepper Motors, Register-level Programming
 
 An embedded pet feeder with configurable modes and portion control via analog inputs using a Bare-metal K64F
@@ -51,7 +51,7 @@ An embedded pet feeder with configurable modes and portion control via analog in
 
 ---
 
-### Smart Security System [PRIVATE REPO]
+### Real-Time Embedded Security & Monitoring System [PRIVATE REPO]
 **Technologies:** Jetson Nano, YOLOv8, MQTT, Flask, Docker, Raspberry Pi
 
 An AI-powered security system with motion-based detection, live notifications, and private VPN-secured dashboard access.
@@ -65,7 +65,7 @@ An AI-powered security system with motion-based detection, live notifications, a
 
 ---
 
-### Jetson Nano YOLOv5 GPU Optimization [PRIVATE REPO]
+### Jetson Nano YOLOv8 GPU Optimization [PRIVATE REPO]
 **Technologies**: CUDA, C++, Cython, Python, Jetson Nano, YOLOv5
 
 A real-time object detection pipeline optimized for the Jetson Nano using custom CUDA kernels and performance profiling.
@@ -96,7 +96,7 @@ A turn-based, multiplayer fantasy RPG game featuring class-based characters, str
 
 ---
 
-### MP3 Player [https://github.com/AmandepSingh180d/MP3-Player-Project.git]
+### Embedded MP3 Player [https://github.com/AmandepSingh180d/MP3-Player-Project.git]
 **Technologies**: C/C++, Arduino Uno, Tone library, Joystick, LCD
 
 An embedded MP3 player simulator that plays preset melodies using buzzer output and a joystick-driven menu interface.
