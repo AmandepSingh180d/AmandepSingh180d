@@ -19,6 +19,11 @@ I'm looking for opportunities in **Embedded Systems**, **Controls Engineering**,
 ## Projects
 
 ### Embedded Autonomous Robotics Platform [https://github.com/k-main/RC-Car]
+
+(https://youtu.be/eWhv0wqUxxo)
+
+
+
 Senior Design Capstone @ UCR  
 **Technologies:** ESP32, NRF24L01, LiDAR, GPS, Servo Control, Custom Chassis
 
@@ -53,6 +58,8 @@ An embedded pet feeder with configurable modes and portion control via analog in
 
 ### Real-Time Embedded Security & Monitoring System [PRIVATE REPO]
 **Technologies:** Jetson Nano, YOLOv8, MQTT, Flask, Docker, Raspberry Pi
+
+(https://youtu.be/rDyCFS-XhcU)
 
 An AI-powered security system with motion-based detection, live notifications, and private VPN-secured dashboard access.
 
